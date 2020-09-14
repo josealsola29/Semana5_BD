@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Semana5_BD</string>
+
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contact">Contacto</string>
+    <string name="menu_favorite">Favorito</string>
+    <string name="contact_name">Nombre</string>
+    <string name="contact_email">Correo</string>
+    <string name="contact_message">Mensaje</string>
+    <string name="contact_sendMessage">Enviar Comentario</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
